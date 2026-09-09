@@ -337,7 +337,7 @@ DEFAULT_DESIGN = {
                 "gc_max": 65,
                 "tm_min": 64.0,
                 "tm_max": 66.0,
-                "len_mfin": 20,
+                "len_min": 20,
                 "len_max": 22,
             },
             "loop": {
