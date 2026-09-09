@@ -1,19 +1,7 @@
-# LAMP primer design pipeline
-# Install with:  pip install -r requirements.txt
-
-# Core primer thermodynamics
 primer3-py
-
-# Alignment / consensus (consensus.py)
 biopython
-
-# Numerical computing (LAMP assembly phase)
 numpy
-
-# GUI
 PyQt5
-
-# Clustering / experimental analysis (expCombCluster.py)
 pandas
 scikit-learn
 scikit-fuzzy
